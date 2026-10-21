@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "PV Defect Screening Under Acquisition Shift: Robustness and Calibration (code and results)"
+authors:
+  - family-names: Hoque
+    given-names: Khandoker Samiul
+    orcid: "https://orcid.org/0009-0008-0756-2395"
+license: MIT
+repository-code: "https://github.com/KhandokerSamiulHoque/pv-el-acquisition-shift"
+date-released: 2026-10-20
