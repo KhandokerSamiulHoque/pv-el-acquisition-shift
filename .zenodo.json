@@ -1,8 +1,10 @@
 {
   "title": "PV Defect Screening Under Acquisition Shift: Robustness and Calibration (code and results)",
   "upload_type": "software",
+  "version": "1.0.0",
+  "access_right": "open",
   "creators": [{"name": "Hoque, Khandoker Samiul", "orcid": "0009-0008-0756-2395"}],
   "description": "Stress tests of an interpretable electroluminescence defect-screening model (ELPV, 2,624 cells) under exposure, contrast, noise and blur shifts, with calibration (Brier, ECE) and a selective-review rule. Follow-up to Hoque (2026), IJSRA 20(2).",
-  "license": "MIT",
+  "license": "mit",
   "keywords": ["photovoltaic reliability", "electroluminescence", "distribution shift", "calibration", "interpretable machine learning"],"related_identifiers": [{"identifier": "10.30574/ijsra.2026.20.2.1601", "relation": "isDerivedFrom", "scheme": "doi"}]
 }

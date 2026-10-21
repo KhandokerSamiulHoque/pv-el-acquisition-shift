@@ -20,6 +20,8 @@ This is the follow-up to my published ELPV benchmark ([pv-el-defect-screening](h
 
 Two findings matter for practice. Overexposure costs the most F1 (0.061), mostly through lost recall. Underexposure keeps F1 almost unchanged but doubles the calibration error (ECE 0.087 to 0.177), so the scores look as confident as before while being less trustworthy. Per-technology results are in `results/published/pv_extension_subgroup_results.csv`. Under reference conditions F1 is 0.713 for monocrystalline and 0.643 for polycrystalline cells.
 
+These reference numbers differ slightly from the published paper (F1 0.670; 0.712 mono and 0.639 poly) because this study uses a different fold seed (20260727 instead of 42). The model and features are the same.
+
 ## Reproduce
 ```bash
 pip install -r requirements.txt
