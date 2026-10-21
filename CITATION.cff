@@ -8,3 +8,12 @@ authors:
 license: MIT
 repository-code: "https://github.com/KhandokerSamiulHoque/pv-el-acquisition-shift"
 date-released: 2026-10-20
+doi: "10.5281/zenodo.23537393"
+version: "1.0.0"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23537392"
+    description: "Concept DOI (all versions)"
+  - type: doi
+    value: "10.5281/zenodo.23537393"
+    description: "Version 1.0.0"

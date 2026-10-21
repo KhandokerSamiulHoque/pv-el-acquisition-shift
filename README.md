@@ -1,5 +1,7 @@
 # PV Defect Screening Under Acquisition Shift: Robustness and Calibration
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23537392.svg)](https://doi.org/10.5281/zenodo.23537392)
+
 This is the follow-up to my published ELPV benchmark ([pv-el-defect-screening](https://github.com/KhandokerSamiulHoque/pv-el-defect-screening), IJSRA 2026, [doi:10.30574/ijsra.2026.20.2.1601](https://doi.org/10.30574/ijsra.2026.20.2.1601)). It asks what happens to that screening model when electroluminescence images are captured differently from the training set. Exposure, contrast, noise and focus all vary between labs and cameras.
 
 ## What it does
@@ -42,3 +44,6 @@ Outputs go to `results/run/`. `results/published/` holds the reference results a
 ELPV images are CC BY-NC-SA 4.0 by their authors and are not redistributed here.
 
 Author: Khandoker Samiul Hoque (ORCID [0009-0008-0756-2395](https://orcid.org/0009-0008-0756-2395)). Code license: MIT. Manuscript in preparation.
+
+## Archived release
+Version 1.0.0 is archived on Zenodo: [doi:10.5281/zenodo.23537393](https://doi.org/10.5281/zenodo.23537393). To cite the latest version instead, use [doi:10.5281/zenodo.23537392](https://doi.org/10.5281/zenodo.23537392).
